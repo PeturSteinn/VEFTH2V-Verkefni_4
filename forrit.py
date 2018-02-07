@@ -14,12 +14,10 @@ def index():
 
 @route('/nemandi/<n>')
 def nemandi(n):
-    Found = False
     for nemandi in bekkur['nemendur']:
         if nemandi['kt'] == n:
-            Found = True
             return template('user', nemandi = nemandi)
-    if not Found:
+    else:
         return error500()
 
 
@@ -36,10 +34,7 @@ def error500(error):
 
 
 
-run()
-
-
-
+run(host="0.0.0.0", port=os.environ.get('PORT'))
 
 
 
