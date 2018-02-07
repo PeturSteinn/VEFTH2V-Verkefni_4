@@ -1,1 +1,2007 @@
-{"nemendur": [{"kt": "1206734249", "nafn": "Daníel Símon Galvez", "braut": "Tölvufræðibraut"}, {"kt": "0201162690", "nafn": "Hilmir Þór Galvez", "braut": "Grunndeild rafiðna"}, {"kt": "1101051239", "nafn": "Kamilla Björk Arthursdóttir", "braut": "Náttúruvísindabraut"}]}
+{
+  "nemendur": [{
+    "kt": "0408982209",
+    "nafn": "P\u00e9tur Steinn Gu\u00f0mundsson",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "0407139004",
+    "nafn": "J\u00f6kull Fri\u00f0riksson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "0809996138",
+    "nafn": "\u00c1sta Gr\u00edmsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "1109684766",
+    "nafn": "L\u00e1rus Gylfi G\u00edslason",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "0203732349",
+    "nafn": "Helgi Birgisson",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "0702268155",
+    "nafn": "\u00c1slaug Hanna R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "0503564503",
+    "nafn": "Sigmar Birgisson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "3004695788",
+    "nafn": "J\u00f6kull Bjarni Einarsson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "2008893059",
+    "nafn": "L\u00edsa D\u00edana Sigmarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "2303795175",
+    "nafn": "Gu\u00f0r\u00fan P\u00e1lsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1611301708",
+    "nafn": "J\u00f6kull Freyr \u00c1sgeirsson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "2609762504",
+    "nafn": "Hj\u00f6rtur T\u00f3masson",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "0912856991",
+    "nafn": "L\u00e1rus Karl Geirsson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "2406355782",
+    "nafn": "M\u00e1r Gu\u00f0mundsson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "0107057481",
+    "nafn": "Steinun Fri\u00f0riksd\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1812332747",
+    "nafn": "R\u00f3bert Freyr Ormsson",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "2508587550",
+    "nafn": "Berglind J\u00f6kulsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "2108908559",
+    "nafn": "Hekla Fri\u00f0riksd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "2710566922",
+    "nafn": "\u00d3\u00f0inn J\u00f3nasson",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "1409284640",
+    "nafn": "Ald\u00eds Sigmarsd\u00f3ttir",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "1502241564",
+    "nafn": "T\u00f3mas \u00d3skar Bjarnason",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0604358452",
+    "nafn": "P\u00e1ll Ormsson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "1205376507",
+    "nafn": "Sylvia Gr\u00edmsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "0705366904",
+    "nafn": "\u00d3l\u00f6f Mar\u00eda Sigmarsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "1303208735",
+    "nafn": "Ald\u00eds Birgitta Sigmarsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "2702253958",
+    "nafn": "T\u00f3mas T\u00f3masson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "0405961430",
+    "nafn": "\u00d3\u00f0inn P\u00e9tur J\u00f3nasson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "0107806481",
+    "nafn": "Sylvia \u00c1sta \u00d3lafsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "1701399790",
+    "nafn": "Hekla B\u00e1ra Bjarnad\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "2802207729",
+    "nafn": "Helgi Gu\u00f0j\u00f3nsson",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "1705821589",
+    "nafn": "\u00d3skar Ormsson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2107406979",
+    "nafn": "Elsa Geirsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1010989278",
+    "nafn": "Ragnhildur Hrafnhildur Gr\u00edmsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0202288270",
+    "nafn": "Karl Gu\u00f0j\u00f3nsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "0612443700",
+    "nafn": "\u00c1g\u00fast L\u00e1rus Agnarsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "2011454063",
+    "nafn": "Natan Geir Birgisson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "2304451276",
+    "nafn": "Adam J\u00f3nasson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "1604629566",
+    "nafn": "Matth\u00edas The\u00f3d\u00f3rsson",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "2407294154",
+    "nafn": "Logi P\u00e9tursson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1909173555",
+    "nafn": "Rut Alexandra Bjarnad\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0802809621",
+    "nafn": "Kolbr\u00fan P\u00e9tursd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "1405326719",
+    "nafn": "J\u00f6kull Magn\u00fas Einarsson",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "1207066111",
+    "nafn": "P\u00e9tur J\u00f6kull Ormsson",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "1205226937",
+    "nafn": "Berglind Sigmarsd\u00f3ttir",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "0706034405",
+    "nafn": "P\u00e9tur \u00d3lafur Birgisson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "0805054245",
+    "nafn": "\u00c1slaug Alexandra P\u00e1lsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1010388305",
+    "nafn": "Karl Hj\u00e1lmar \u00c1skelsson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "1111741396",
+    "nafn": "P\u00e9tur \u00d3\u00f0inn The\u00f3d\u00f3rsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1401019022",
+    "nafn": "Hj\u00f6rtur Magn\u00fasson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0401929984",
+    "nafn": "B\u00e1ra R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "2212667072",
+    "nafn": "Karen M\u00e1sd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "2408926605",
+    "nafn": "Helgi Sigmar J\u00f3nasson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "1612033580",
+    "nafn": "\u00d3laf\u00eda \u00c1skelsd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "2103129225",
+    "nafn": "Karen J\u00f6kulsd\u00f3ttir",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "0806793541",
+    "nafn": "Leifur Bjarnason",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "1312732325",
+    "nafn": "Hj\u00f6rtur Karl Karlsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "0912584208",
+    "nafn": "Emma P\u00e9tursd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "1708583150",
+    "nafn": "Alexandra \u00c1sta Gr\u00edmsd\u00f3ttir",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "1401142877",
+    "nafn": "J\u00f3n\u00edna \u00c1skelsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "1007713265",
+    "nafn": "Aron Birgisson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "2710343806",
+    "nafn": "\u00c1sd\u00eds Emma P\u00e9tursd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "1501576969",
+    "nafn": "Fri\u00f0rik P\u00e9tur Gunnarsson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "0810955323",
+    "nafn": "Sigmar P\u00e1ll Magn\u00fasson",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "0108546299",
+    "nafn": "Sigr\u00fan Hanna Gu\u00f0mundsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "2111286573",
+    "nafn": "Hanna \u00d3lafsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "1009537847",
+    "nafn": "Gylfi \u00d3lafur Birgisson",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "2405319257",
+    "nafn": "Fri\u00f0rik Ormsson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "0708256871",
+    "nafn": "Mar\u00eda \u00c1skelsd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "2106695603",
+    "nafn": "Silvia Mar\u00eda Bjarnad\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "0111116187",
+    "nafn": "Dagbj\u00f6rt \u00d3laf\u00eda P\u00e1lsd\u00f3ttir",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "1608369469",
+    "nafn": "J\u00f3nas J\u00f3nsson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "2406549841",
+    "nafn": "R\u00f3bert Magn\u00fas \u00c1skelsson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "1502288018",
+    "nafn": "Alexandra P\u00e9tursd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "0310661960",
+    "nafn": "\u00d3skar Sigur\u00f0sson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "2808417499",
+    "nafn": "Hekla Hrafnhildur Geirsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1208638928",
+    "nafn": "Hj\u00f6rtur Karlsson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "0312157509",
+    "nafn": "\u00d3\u00f0inn Karlsson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "0510872304",
+    "nafn": "Hj\u00f6rd\u00eds Geirsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "2706922852",
+    "nafn": "\u00d3laf\u00eda Geirsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0803529596",
+    "nafn": "Eyr\u00fan Mar\u00eda Einarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "2307113467",
+    "nafn": "Natan Ormsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "2810545216",
+    "nafn": "\u00d3laf\u00eda Sigmarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "1501323061",
+    "nafn": "Aron Gu\u00f0j\u00f3nsson",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "3008797083",
+    "nafn": "Kolbr\u00fan Hekla R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "2411185977",
+    "nafn": "J\u00f3n\u00edna G\u00edslad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "2209498780",
+    "nafn": "Leifur Birgisson",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "2203127219",
+    "nafn": "Leo J\u00f3nsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "0908912141",
+    "nafn": "D\u00edana \u00c1skelsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "2201087136",
+    "nafn": "Magn\u00fas P\u00e9tursson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "2202606163",
+    "nafn": "Silvia Ragnhildur Fri\u00f0riksd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1711548600",
+    "nafn": "Ingvar G\u00edslason",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "3009941709",
+    "nafn": "Emma Gu\u00f0bj\u00f6rg J\u00f6kulsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "2509675446",
+    "nafn": "Einar J\u00f6kull J\u00f6kulsson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "2012794610",
+    "nafn": "J\u00f3n M\u00e1sson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "2407867017",
+    "nafn": "Helgi P\u00e9tursson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "1601967868",
+    "nafn": "Logi Ormsson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "0601478829",
+    "nafn": "\u00d3lafur Fannar Ormsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1206146874",
+    "nafn": "\u00c1sd\u00eds Gu\u00f0bj\u00f6rg Sigmarsd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "2906025796",
+    "nafn": "Alexandra \u00d3lafsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "0206802719",
+    "nafn": "J\u00f6kull \u00c1skelsson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1901862138",
+    "nafn": "St\u00edna P\u00e1lsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "1609791743",
+    "nafn": "Adam Leo Karlsson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "0601263846",
+    "nafn": "Leifur Fri\u00f0rik Agnarsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "1510828370",
+    "nafn": "Gu\u00f0bj\u00f6rg Ragnhildur Fri\u00f0riksd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "0203381182",
+    "nafn": "Hj\u00f6rd\u00eds Eyr\u00fan J\u00f6kulsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "2609035608",
+    "nafn": "Silvia \u00c1slaug P\u00e9tursd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "1706115738",
+    "nafn": "Hekla Alexandra Magn\u00fasd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1311205884",
+    "nafn": "J\u00f3n Hilmar Birgisson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2204656439",
+    "nafn": "Birgitta M\u00e1sd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "0904765122",
+    "nafn": "\u00d3laf\u00eda \u00c1skelsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "1601418216",
+    "nafn": "Logi Ingvar Gunnarsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "1403651211",
+    "nafn": "\u00c1g\u00fast \u00c1sgeirsson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "1407896266",
+    "nafn": "Gu\u00f0bj\u00f6rg P\u00e9tursd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "1610136848",
+    "nafn": "Ingvar The\u00f3d\u00f3rsson",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "2612751868",
+    "nafn": "Logi The\u00f3d\u00f3rsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1010384835",
+    "nafn": "\u00c1sd\u00eds Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2209575277",
+    "nafn": "Helga Birgitta G\u00edslad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "0708582579",
+    "nafn": "Krist\u00edn \u00c1slaug Geirsd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "0507261150",
+    "nafn": "Geir Karl Karlsson",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "0706712578",
+    "nafn": "A\u00f0alhei\u00f0ur Emma R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "0106534665",
+    "nafn": "\u00d3lafur J\u00f3nasson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1101646652",
+    "nafn": "\u00c1sta Gr\u00edmsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0403028996",
+    "nafn": "Aron \u00d3\u00f0inn Ormsson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "1107615994",
+    "nafn": "Helgi Leo Birgisson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "1704861326",
+    "nafn": "D\u00edana Gu\u00f0mundsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "1411388334",
+    "nafn": "Berglind \u00d3laf\u00eda P\u00e1lsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "2409742708",
+    "nafn": "Sigr\u00fan Gr\u00edmsd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "0608131940",
+    "nafn": "Leo Hj\u00e1lmar Birgisson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "1603308600",
+    "nafn": "Logi \u00d3lafur Ormsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "1208146132",
+    "nafn": "Kolbr\u00fan Ragnhildur Geirsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "0611327754",
+    "nafn": "Natan J\u00f3nasson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2301258826",
+    "nafn": "Einar Sigmar The\u00f3d\u00f3rsson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut"
+  }, {
+    "kt": "0506126235",
+    "nafn": "\u00c1sta J\u00f6kulsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "0903894626",
+    "nafn": "D\u00edana Rut Gu\u00f0mundsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "1010821799",
+    "nafn": "Bjarni Fri\u00f0rik J\u00f6kulsson",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "0712624261",
+    "nafn": "Sigr\u00fan P\u00e9tursd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na"
+  }, {
+    "kt": "0309383952",
+    "nafn": "M\u00e1r Agnarsson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "1706453555",
+    "nafn": "P\u00e1ll Helgi J\u00f6kulsson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "2910665305",
+    "nafn": "Gu\u00f0r\u00fan \u00d3laf\u00eda M\u00e1sd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "0109219916",
+    "nafn": "Hj\u00e1lmar Ingvar Agnarsson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "0806332733",
+    "nafn": "Adam Karlsson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "2601722440",
+    "nafn": "T\u00f3mas Bjarni The\u00f3d\u00f3rsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "2709041141",
+    "nafn": "Leifur Hj\u00f6rtur J\u00f3nasson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1208304390",
+    "nafn": "\u00c1sta Birgitta M\u00e1sd\u00f3ttir",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "2904338996",
+    "nafn": "Hj\u00f6rtur J\u00f6kull Fri\u00f0riksson",
+    "braut": "Prentun"
+  }, {
+    "kt": "2802466171",
+    "nafn": "Karen Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "0402553196",
+    "nafn": "\u00d3laf\u00eda Gr\u00edmsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0"
+  }, {
+    "kt": "1803346628",
+    "nafn": "\u00d3skar Bjarnason",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "3107193886",
+    "nafn": "Rut Ragnhildur J\u00f6kulsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "0407024975",
+    "nafn": "M\u00e1r \u00d3lafur Geirsson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "1406199428",
+    "nafn": "Alexandra Helga Geirsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "0910014250",
+    "nafn": "L\u00e1rus M\u00e1r Gu\u00f0mundsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "2205077249",
+    "nafn": "J\u00f3n Gylfi T\u00f3masson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "3010445867",
+    "nafn": "Eyr\u00fan \u00c1sd\u00eds G\u00edslad\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "2312537930",
+    "nafn": "Ingvar Gylfi Agnarsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1101534393",
+    "nafn": "\u00c1slaug \u00c1skelsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "2807349572",
+    "nafn": "Ingvar L\u00e1rus Karlsson",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "0509297052",
+    "nafn": "M\u00e1r P\u00e9tur T\u00f3masson",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "0804261858",
+    "nafn": "\u00d3laf\u00eda Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2301243161",
+    "nafn": "T\u00f3mas L\u00e1rus Gu\u00f0mundsson",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "1504489867",
+    "nafn": "Gu\u00f0bj\u00f6rg P\u00e9tursd\u00f3ttir",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "2507874328",
+    "nafn": "\u00c1sta Gr\u00edmsd\u00f3ttir",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "1810677745",
+    "nafn": "Gylfi Aron Ormsson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "1302814734",
+    "nafn": "Karl Magn\u00fasson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut"
+  }, {
+    "kt": "2009723132",
+    "nafn": "Steinun \u00d3lafsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2210271566",
+    "nafn": "Logi J\u00f6kull Ormsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "2405744053",
+    "nafn": "\u00c1g\u00fast Matth\u00edas \u00c1skelsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "2805557664",
+    "nafn": "Elsa Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0502642496",
+    "nafn": "T\u00f3mas Gylfi Sigur\u00f0sson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "2106675899",
+    "nafn": "\u00c1g\u00fast Adam Bjarnason",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2912012967",
+    "nafn": "P\u00e9tur Ingvar Bjarnason",
+    "braut": "Prentsm\u00ed\u00f0"
+  }, {
+    "kt": "2502819898",
+    "nafn": "Natan Birgisson",
+    "braut": "Prentun"
+  }, {
+    "kt": "1504867180",
+    "nafn": "Agnes Gu\u00f0bj\u00f6rg Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2011028879",
+    "nafn": "Sigr\u00fan Fri\u00f0riksd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "3003169730",
+    "nafn": "Alexandra Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "2603508819",
+    "nafn": "\u00d3skar M\u00e1sson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "1904351282",
+    "nafn": "Sigr\u00fan Einarsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "0611642227",
+    "nafn": "Silvia Fri\u00f0riksd\u00f3ttir",
+    "braut": "Prentun"
+  }, {
+    "kt": "1207922653",
+    "nafn": "Sylvia Einarsd\u00f3ttir",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "0407268904",
+    "nafn": "St\u00edna Magn\u00fasd\u00f3ttir",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "1904049909",
+    "nafn": "Mar\u00eda Berglind \u00d3lafsd\u00f3ttir",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "1211273829",
+    "nafn": "R\u00f3bert Bjarni The\u00f3d\u00f3rsson",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "2307636076",
+    "nafn": "J\u00f3nas Ormsson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "1910961063",
+    "nafn": "Aron P\u00e1ll Magn\u00fasson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "1108184143",
+    "nafn": "St\u00edna Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "0805911531",
+    "nafn": "Ragnhildur Magn\u00fasd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "1407136538",
+    "nafn": "Emma Sylvia Gu\u00f0mundsd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "1912154357",
+    "nafn": "Gu\u00f0bj\u00f6rg Ragnhildur Sigmarsd\u00f3ttir",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "0301416362",
+    "nafn": "J\u00f3n\u00edna Berglind G\u00edslad\u00f3ttir",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "1905215768",
+    "nafn": "Einar Hj\u00f6rtur J\u00f3nasson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "2202463519",
+    "nafn": "D\u00edana L\u00edsa M\u00e1sd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "2506651467",
+    "nafn": "Rut Birgitta Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "2408483583",
+    "nafn": "T\u00f3mas Agnarsson",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "3001906669",
+    "nafn": "\u00d3skar Natan The\u00f3d\u00f3rsson",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "1010346982",
+    "nafn": "Aron P\u00e9tursson",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "0106069268",
+    "nafn": "Hanna Sigmarsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "2306891600",
+    "nafn": "B\u00e1ra Sigr\u00fan P\u00e9tursd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1004543564",
+    "nafn": "Natan Fri\u00f0riksson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "1809514906",
+    "nafn": "Sylvia Helga R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "3112587256",
+    "nafn": "L\u00e1rus M\u00e1r P\u00e9tursson",
+    "braut": "Prentun"
+  }, {
+    "kt": "1908185335",
+    "nafn": "Leo Ingvar Sigur\u00f0sson",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "3012303661",
+    "nafn": "Sigmar J\u00f6kulsson",
+    "braut": "Prentun"
+  }, {
+    "kt": "2306741677",
+    "nafn": "P\u00e9tur P\u00e9tursson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "0702885846",
+    "nafn": "Hj\u00e1lmar Agnarsson",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "0304376711",
+    "nafn": "Adam Birgisson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "0804225825",
+    "nafn": "B\u00e1ra P\u00e1lsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "1811749785",
+    "nafn": "Gu\u00f0bj\u00f6rg L\u00edsa Geirsd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2112767645",
+    "nafn": "\u00d3\u00f0inn P\u00e9tur G\u00edslason",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "3111981161",
+    "nafn": "Helga Alexandra P\u00e1lsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "2403955486",
+    "nafn": "Berglind Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "1808506943",
+    "nafn": "Silvia B\u00e1ra Bjarnad\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0306632818",
+    "nafn": "Ald\u00eds Sigmarsd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "2607598197",
+    "nafn": "\u00d3lafur Ormsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0403729370",
+    "nafn": "Alexandra Hrafnhildur Gr\u00edmsd\u00f3ttir",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut"
+  }, {
+    "kt": "1201584114",
+    "nafn": "Fri\u00f0rik Birgisson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "0707311631",
+    "nafn": "P\u00e1ll The\u00f3d\u00f3rsson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "0501148639",
+    "nafn": "J\u00f3nas M\u00e1sson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "0206896971",
+    "nafn": "\u00d3laf\u00eda R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "0503854183",
+    "nafn": "Birgitta G\u00edslad\u00f3ttir",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "1801236078",
+    "nafn": "Hanna \u00c1sta Magn\u00fasd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "0710255580",
+    "nafn": "B\u00e1ra Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "1811845129",
+    "nafn": "Aron Gunnarsson",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "2001361931",
+    "nafn": "Gu\u00f0bj\u00f6rg Helga J\u00f6kulsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "0112144483",
+    "nafn": "Agnes Elsa \u00c1skelsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1607906293",
+    "nafn": "J\u00f3nas J\u00f3n Sigur\u00f0sson",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "0103927311",
+    "nafn": "Rut Geirsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "1504433353",
+    "nafn": "Rut Sigmarsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "0403894955",
+    "nafn": "J\u00f3n\u00edna Dagbj\u00f6rt Bjarnad\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "1304197073",
+    "nafn": "J\u00f3n \u00d3\u00f0inn Agnarsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1611801114",
+    "nafn": "Matth\u00edas Fri\u00f0riksson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "0707793847",
+    "nafn": "Mar\u00eda J\u00f6kulsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "0405687822",
+    "nafn": "Hrafnhildur Einarsd\u00f3ttir",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "0301287122",
+    "nafn": "Leifur Freyr Gu\u00f0j\u00f3nsson",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2612119793",
+    "nafn": "\u00d3skar Leo P\u00e9tursson",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "2905862505",
+    "nafn": "Helga J\u00f3n\u00edna R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1505485442",
+    "nafn": "Ald\u00eds P\u00e1lsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "0510464379",
+    "nafn": "J\u00f6kull Ingvar Birgisson",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "0312049256",
+    "nafn": "Mar\u00eda St\u00edna \u00c1skelsd\u00f3ttir",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "2710585059",
+    "nafn": "Adam R\u00f3bert Ormsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "1904387272",
+    "nafn": "Silvia Agnes Einarsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0"
+  }, {
+    "kt": "2112887727",
+    "nafn": "Aron Gylfi Einarsson",
+    "braut": "Prentun"
+  }, {
+    "kt": "2404492951",
+    "nafn": "Helgi J\u00f3nas T\u00f3masson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "1304655253",
+    "nafn": "Berglind Mar\u00eda \u00c1skelsd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1008647888",
+    "nafn": "Steinun \u00c1skelsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "2603307709",
+    "nafn": "\u00d3lafur R\u00f3bert \u00c1skelsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "0910522451",
+    "nafn": "\u00d3skar Magn\u00fasson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "1608432154",
+    "nafn": "Elsa Einarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "2204286500",
+    "nafn": "\u00d3laf\u00eda M\u00e1sd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "1009296357",
+    "nafn": "M\u00e1r Ormsson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "0304367607",
+    "nafn": "\u00c1sd\u00eds G\u00edslad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0205715757",
+    "nafn": "J\u00f3nas Fri\u00f0riksson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "0607563127",
+    "nafn": "Ingvar Einar G\u00edslason",
+    "braut": "Almennt n\u00e1m"
+  }, {
+    "kt": "0311319838",
+    "nafn": "Hilmar Ingvar J\u00f3nasson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "0607386156",
+    "nafn": "Logi Natan \u00c1sgeirsson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "2411681857",
+    "nafn": "Krist\u00edn R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "0111172612",
+    "nafn": "Hekla Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "0411719108",
+    "nafn": "Fri\u00f0rik Geir J\u00f3nsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "1611828310",
+    "nafn": "Logi Fri\u00f0riksson",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "0806669095",
+    "nafn": "A\u00f0alhei\u00f0ur Dagbj\u00f6rt Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "1407972046",
+    "nafn": "St\u00edna Sigmarsd\u00f3ttir",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "1509554296",
+    "nafn": "L\u00edsa Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "0207246873",
+    "nafn": "Helgi Agnarsson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "3002625221",
+    "nafn": "Mar\u00eda J\u00f6kulsd\u00f3ttir",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "2509265161",
+    "nafn": "Alexandra \u00c1sd\u00eds Geirsd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na"
+  }, {
+    "kt": "1409719833",
+    "nafn": "Unnur R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "0806755965",
+    "nafn": "Bjarni Birgisson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "0101614591",
+    "nafn": "Hj\u00e1lmar Ingvar T\u00f3masson",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "2112076538",
+    "nafn": "L\u00e1rus \u00d3skar Karlsson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "2611069646",
+    "nafn": "L\u00e1rus Adam J\u00f6kulsson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "1311907325",
+    "nafn": "Natan Birgisson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "2510415878",
+    "nafn": "Kolbr\u00fan Berglind P\u00e9tursd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2804216329",
+    "nafn": "Sigmar T\u00f3masson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "0201867198",
+    "nafn": "Magn\u00fas P\u00e9tursson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "1701061842",
+    "nafn": "J\u00f3n\u00edna Silvia R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "0201755129",
+    "nafn": "Natan J\u00f6kull Gu\u00f0mundsson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "3006407725",
+    "nafn": "Silvia G\u00edslad\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "0402688125",
+    "nafn": "\u00d3\u00f0inn Geirsson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "0305501204",
+    "nafn": "J\u00f3n\u00edna Gu\u00f0r\u00fan Geirsd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "1905349573",
+    "nafn": "R\u00f3bert T\u00f3masson",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "2201141701",
+    "nafn": "Fri\u00f0rik M\u00e1r T\u00f3masson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "2706942803",
+    "nafn": "Ragnhei\u00f0ur Hj\u00f6rd\u00eds Sigmarsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "0301638038",
+    "nafn": "\u00d3skar Fri\u00f0rik J\u00f3nsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1010853480",
+    "nafn": "Leo P\u00e9tur Geirsson",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "1203791633",
+    "nafn": "L\u00e1rus Matth\u00edas P\u00e9tursson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "1807495884",
+    "nafn": "R\u00f3bert Karl P\u00e9tursson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "2902417845",
+    "nafn": "A\u00f0alhei\u00f0ur Alexandra J\u00f6kulsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "3110024879",
+    "nafn": "Leo P\u00e1ll Bjarnason",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2001232174",
+    "nafn": "J\u00f6kull J\u00f3n J\u00f6kulsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "2609547688",
+    "nafn": "P\u00e9tur Hilmar \u00c1sgeirsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "0708334338",
+    "nafn": "Leifur T\u00f3masson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "3105483053",
+    "nafn": "Einar Birgisson",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "2012118392",
+    "nafn": "J\u00f6kull J\u00f3nasson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "2611531970",
+    "nafn": "J\u00f6kull Karlsson",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "2510116458",
+    "nafn": "\u00d3l\u00f6f Ragnhildur Gu\u00f0mundsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "2907098343",
+    "nafn": "P\u00e9tur J\u00f3nas J\u00f6kulsson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "2910743886",
+    "nafn": "Leo Karl Agnarsson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "2708656797",
+    "nafn": "R\u00f3bert \u00d3\u00f0inn Magn\u00fasson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "0204271718",
+    "nafn": "Eyr\u00fan M\u00e1sd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "0508494848",
+    "nafn": "Helgi Karl J\u00f6kulsson",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "1509898389",
+    "nafn": "Steinun B\u00e1ra Geirsd\u00f3ttir",
+    "braut": "Prentun"
+  }, {
+    "kt": "0709986882",
+    "nafn": "Fri\u00f0rik T\u00f3masson",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "1211903980",
+    "nafn": "Fri\u00f0rik Ormsson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "3109755065",
+    "nafn": "Hekla Gr\u00edmsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "2601793606",
+    "nafn": "\u00d3skar Natan Magn\u00fasson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1305885228",
+    "nafn": "Birgitta Berglind Magn\u00fasd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn"
+  }, {
+    "kt": "2004914150",
+    "nafn": "Karen M\u00e1sd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2005659731",
+    "nafn": "Kolbr\u00fan Gu\u00f0bj\u00f6rg R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "3007418299",
+    "nafn": "Dagbj\u00f6rt Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1905515615",
+    "nafn": "L\u00e1rus J\u00f3nsson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "2906222148",
+    "nafn": "Sylvia G\u00edslad\u00f3ttir",
+    "braut": "Prentun"
+  }, {
+    "kt": "0109497769",
+    "nafn": "Helga Emma R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "1801707864",
+    "nafn": "Hj\u00e1lmar Magn\u00fasson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2206335766",
+    "nafn": "Elsa Silvia Gu\u00f0mundsd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0511072707",
+    "nafn": "M\u00e1r Gunnarsson",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "2301841083",
+    "nafn": "J\u00f3n\u00edna Mar\u00eda \u00d3lafsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "2403565875",
+    "nafn": "Hj\u00f6rtur Adam Karlsson",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "3102557064",
+    "nafn": "Dagbj\u00f6rt Agnes M\u00e1sd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "0702117808",
+    "nafn": "\u00d3lafur Freyr T\u00f3masson",
+    "braut": "Prentun"
+  }, {
+    "kt": "0405214790",
+    "nafn": "\u00d3\u00f0inn R\u00f3bert Gu\u00f0mundsson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2511446083",
+    "nafn": "St\u00edna Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "3003455855",
+    "nafn": "Sigmar R\u00f3bert M\u00e1sson",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "0206114290",
+    "nafn": "Natan Magn\u00fasson",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "3004069202",
+    "nafn": "Bjarni \u00d3\u00f0inn Einarsson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "0711596364",
+    "nafn": "St\u00edna M\u00e1sd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "0302569995",
+    "nafn": "Gu\u00f0bj\u00f6rg Gu\u00f0mundsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "1510843868",
+    "nafn": "\u00d3\u00f0inn J\u00f3nsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "2105873884",
+    "nafn": "Matth\u00edas The\u00f3d\u00f3rsson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "3002539140",
+    "nafn": "L\u00edsa \u00d3lafsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2502718371",
+    "nafn": "L\u00e1rus \u00c1skelsson",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "2507074968",
+    "nafn": "Berglind Gu\u00f0bj\u00f6rg Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "2604147073",
+    "nafn": "Rut Magn\u00fasd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0104411259",
+    "nafn": "\u00c1sd\u00eds B\u00e1ra Gr\u00edmsd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2905107800",
+    "nafn": "Silvia Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "2305742766",
+    "nafn": "\u00c1g\u00fast Geirsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "3006177165",
+    "nafn": "Freyr Aron Birgisson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "1612108789",
+    "nafn": "Sigmar Leo Magn\u00fasson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0101759450",
+    "nafn": "P\u00e1ll \u00c1g\u00fast Gu\u00f0mundsson",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "1110607926",
+    "nafn": "Ragnhei\u00f0ur \u00d3laf\u00eda Gu\u00f0mundsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "2508034494",
+    "nafn": "Helga J\u00f6kulsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "0311716544",
+    "nafn": "Leo \u00c1skelsson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "2809822668",
+    "nafn": "Berglind Birgitta Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2707581627",
+    "nafn": "Helgi M\u00e1r J\u00f3nasson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0606869696",
+    "nafn": "Fri\u00f0rik Gunnarsson",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "0701872300",
+    "nafn": "\u00d3\u00f0inn Magn\u00fasson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2406029033",
+    "nafn": "Gu\u00f0bj\u00f6rg Magn\u00fasd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "0311752835",
+    "nafn": "\u00d3\u00f0inn Fri\u00f0riksson",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na"
+  }, {
+    "kt": "2601681226",
+    "nafn": "\u00c1slaug Rut Bjarnad\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "0303118725",
+    "nafn": "Magn\u00fas J\u00f6kulsson",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "1501065181",
+    "nafn": "J\u00f6kull Leifur Karlsson",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "1910402641",
+    "nafn": "Sylvia Rut \u00d3lafsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "3010582241",
+    "nafn": "Fri\u00f0rik Birgisson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "1001664194",
+    "nafn": "Fannar Geirsson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "2806663340",
+    "nafn": "Unnur G\u00edslad\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "1202148481",
+    "nafn": "J\u00f6kull Hj\u00f6rtur J\u00f6kulsson",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "3106039882",
+    "nafn": "Hj\u00f6rtur J\u00f3nasson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "2602492054",
+    "nafn": "Gylfi Birgisson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "1009622274",
+    "nafn": "Adam Gu\u00f0j\u00f3nsson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0502638943",
+    "nafn": "A\u00f0alhei\u00f0ur Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1911181000",
+    "nafn": "\u00d3skar Fannar \u00c1sgeirsson",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1201681216",
+    "nafn": "St\u00edna \u00d3laf\u00eda P\u00e9tursd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0205851812",
+    "nafn": "Agnes Krist\u00edn R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn"
+  }, {
+    "kt": "0712108494",
+    "nafn": "B\u00e1ra Gr\u00edmsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2103796303",
+    "nafn": "Berglind Gu\u00f0mundsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "1209925074",
+    "nafn": "Helgi Hj\u00e1lmar Geirsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "1108083830",
+    "nafn": "J\u00f3n G\u00edslason",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "1103238719",
+    "nafn": "\u00c1sta \u00d3lafsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "1202978897",
+    "nafn": "Hrafnhildur \u00c1skelsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "3005859712",
+    "nafn": "L\u00e1rus Birgisson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "0307043969",
+    "nafn": "Adam Freyr Geirsson",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa"
+  }, {
+    "kt": "1603577043",
+    "nafn": "Agnes Fri\u00f0riksd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1805684689",
+    "nafn": "Logi G\u00edslason",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2906054460",
+    "nafn": "Hekla M\u00e1sd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "2009401661",
+    "nafn": "L\u00e1rus Einarsson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "0503623532",
+    "nafn": "Aron Helgi \u00c1skelsson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "3111657771",
+    "nafn": "Sigr\u00fan \u00c1skelsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "0110277869",
+    "nafn": "Sigr\u00fan \u00c1slaug Magn\u00fasd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1908857259",
+    "nafn": "Gu\u00f0bj\u00f6rg P\u00e9tursd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "1902097638",
+    "nafn": "Adam J\u00f3nsson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2004944721",
+    "nafn": "Sigr\u00fan Fri\u00f0riksd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "2301097619",
+    "nafn": "Gu\u00f0bj\u00f6rg Kolbr\u00fan Sigmarsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "1512801215",
+    "nafn": "M\u00e1r The\u00f3d\u00f3rsson",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "1307922448",
+    "nafn": "Krist\u00edn J\u00f6kulsd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "1611447415",
+    "nafn": "\u00c1sta Elsa Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "0501655716",
+    "nafn": "Gylfi The\u00f3d\u00f3rsson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2403506197",
+    "nafn": "Fannar Gylfi M\u00e1sson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "0706335216",
+    "nafn": "Sigr\u00fan \u00d3laf\u00eda Fri\u00f0riksd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "1803611579",
+    "nafn": "B\u00e1ra Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "2303375135",
+    "nafn": "\u00d3skar Birgisson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0203526546",
+    "nafn": "L\u00e1rus J\u00f6kulsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0"
+  }, {
+    "kt": "2506139344",
+    "nafn": "Magn\u00fas Aron M\u00e1sson",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "2108202030",
+    "nafn": "Dagbj\u00f6rt Birgitta Einarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "2605564636",
+    "nafn": "Ragnhei\u00f0ur G\u00edslad\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "0112512015",
+    "nafn": "J\u00f3n Magn\u00fasson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "2610392948",
+    "nafn": "Eyr\u00fan Hj\u00f6rd\u00eds M\u00e1sd\u00f3ttir",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "0905362226",
+    "nafn": "Natan Agnarsson",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "2411619967",
+    "nafn": "Logi G\u00edslason",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2401055302",
+    "nafn": "Agnes Mar\u00eda Gr\u00edmsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "0106896827",
+    "nafn": "Karl Einar Fri\u00f0riksson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "1910942102",
+    "nafn": "Bjarni Ormsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1805898274",
+    "nafn": "Rut P\u00e9tursd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0"
+  }, {
+    "kt": "2808733752",
+    "nafn": "Elsa B\u00e1ra Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1112857245",
+    "nafn": "J\u00f3nas Sigur\u00f0sson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "1204067961",
+    "nafn": "J\u00f3n\u00edna \u00c1slaug Sigmarsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "1508593662",
+    "nafn": "Freyr P\u00e1ll Fri\u00f0riksson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "2008354376",
+    "nafn": "J\u00f6kull The\u00f3d\u00f3rsson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2802226036",
+    "nafn": "Gylfi \u00c1skelsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "2903057309",
+    "nafn": "\u00c1slaug \u00d3laf\u00eda P\u00e9tursd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "1506527481",
+    "nafn": "Emma Elsa M\u00e1sd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "1405482322",
+    "nafn": "Gu\u00f0r\u00fan Emma \u00d3lafsd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "2902054856",
+    "nafn": "Geir J\u00f6kulsson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "1103879170",
+    "nafn": "Hj\u00e1lmar Birgisson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "0702182641",
+    "nafn": "Geir R\u00f3bert J\u00f6kulsson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "1303027237",
+    "nafn": "Natan Aron Gu\u00f0j\u00f3nsson",
+    "braut": "Prentun"
+  }, {
+    "kt": "0711348020",
+    "nafn": "\u00c1slaug J\u00f6kulsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "3107449691",
+    "nafn": "Sylvia P\u00e1lsd\u00f3ttir",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "0108181486",
+    "nafn": "Hrafnhildur P\u00e9tursd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "0312375530",
+    "nafn": "Emma Gu\u00f0r\u00fan Geirsd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "0505286968",
+    "nafn": "Magn\u00fas M\u00e1sson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "1305095232",
+    "nafn": "Hekla \u00c1sta Einarsd\u00f3ttir",
+    "braut": "Rafeindavirkjun"
+  }, {
+    "kt": "0808694492",
+    "nafn": "Elsa M\u00e1sd\u00f3ttir",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "2006089680",
+    "nafn": "Silvia Unnur P\u00e9tursd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu"
+  }, {
+    "kt": "2506656971",
+    "nafn": "Freyr Einar M\u00e1sson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "2902511517",
+    "nafn": "P\u00e1ll Bjarnason",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "3002309584",
+    "nafn": "Ald\u00eds Gu\u00f0bj\u00f6rg \u00d3lafsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D"
+  }, {
+    "kt": "1306551830",
+    "nafn": "\u00d3\u00f0inn Magn\u00fas M\u00e1sson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "1605241985",
+    "nafn": "J\u00f6kull Birgisson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "2902478641",
+    "nafn": "Magn\u00fas Bjarnason",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0404289108",
+    "nafn": "Agnes Rut Fri\u00f0riksd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "0402375729",
+    "nafn": "Kolbr\u00fan Elsa Magn\u00fasd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "0201862059",
+    "nafn": "Unnur Krist\u00edn G\u00edslad\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "2606393490",
+    "nafn": "Karen Fri\u00f0riksd\u00f3ttir",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "1209279568",
+    "nafn": "\u00c1g\u00fast Karlsson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "0410395461",
+    "nafn": "Helgi Sigur\u00f0sson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "0604637699",
+    "nafn": "A\u00f0alhei\u00f0ur Krist\u00edn J\u00f6kulsd\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "1506485869",
+    "nafn": "J\u00f3n Geir Birgisson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "0312987649",
+    "nafn": "P\u00e1ll Einarsson",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "2205271433",
+    "nafn": "Hj\u00f6rd\u00eds G\u00edslad\u00f3ttir",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1303318596",
+    "nafn": "Hj\u00f6rd\u00eds P\u00e1lsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "0709276091",
+    "nafn": "\u00d3l\u00f6f Berglind \u00d3lafsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "0211054493",
+    "nafn": "Hanna P\u00e9tursd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "0201268660",
+    "nafn": "Fri\u00f0rik Bjarnason",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "1012547706",
+    "nafn": "Kolbr\u00fan Gu\u00f0bj\u00f6rg P\u00e1lsd\u00f3ttir",
+    "braut": "Flugkennari"
+  }, {
+    "kt": "1305712183",
+    "nafn": "Leo Sigmar P\u00e9tursson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans"
+  }, {
+    "kt": "3102727546",
+    "nafn": "Gu\u00f0r\u00fan Hrafnhildur P\u00e9tursd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "2602038903",
+    "nafn": "\u00d3lafur J\u00f6kulsson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0804715683",
+    "nafn": "Alexandra A\u00f0alhei\u00f0ur Sigmarsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja"
+  }, {
+    "kt": "0509852389",
+    "nafn": "Fri\u00f0rik Agnarsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i"
+  }, {
+    "kt": "2404589996",
+    "nafn": "Gylfi Hilmar \u00c1sgeirsson",
+    "braut": "Atvinnuflugma\u00f0ur"
+  }, {
+    "kt": "0308034267",
+    "nafn": "Silvia Steinun M\u00e1sd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing"
+  }, {
+    "kt": "2512429248",
+    "nafn": "Bjarni M\u00e1r J\u00f6kulsson",
+    "braut": "H\u00fasasm\u00ed\u00f0i"
+  }, {
+    "kt": "2804522162",
+    "nafn": "\u00d3lafur Ormsson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "1901912565",
+    "nafn": "Fri\u00f0rik Gunnarsson",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "2907431265",
+    "nafn": "L\u00e1rus J\u00f6kulsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN"
+  }, {
+    "kt": "1209348379",
+    "nafn": "Kolbr\u00fan Sigr\u00fan Sigmarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans"
+  }, {
+    "kt": "0509678619",
+    "nafn": "Ragnhildur St\u00edna Gr\u00edmsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "1607956469",
+    "nafn": "Steinun Hrafnhildur Sigmarsd\u00f3ttir",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "3112295003",
+    "nafn": "Hj\u00f6rtur M\u00e1r Gu\u00f0j\u00f3nsson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "0702865853",
+    "nafn": "J\u00f3nas Birgisson",
+    "braut": "V\u00e9lvirkjabraut"
+  }, {
+    "kt": "1112956135",
+    "nafn": "Hekla Rut Fri\u00f0riksd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "2005926416",
+    "nafn": "Aron Fri\u00f0rik Karlsson",
+    "braut": "P\u00edpulagnir"
+  }, {
+    "kt": "0511241969",
+    "nafn": "Freyr Birgisson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "0104248027",
+    "nafn": "Mar\u00eda Bjarnad\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "0611956203",
+    "nafn": "Gylfi Birgisson",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "2009756921",
+    "nafn": "Geir Fri\u00f0riksson",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "0505737689",
+    "nafn": "Karen P\u00e1lsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0"
+  }, {
+    "kt": "3009065114",
+    "nafn": "Ragnhildur Fri\u00f0riksd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n"
+  }, {
+    "kt": "1006923665",
+    "nafn": "Eyr\u00fan Ragnhildur M\u00e1sd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir"
+  }, {
+    "kt": "2501169705",
+    "nafn": "Hj\u00e1lmar Geirsson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2802585959",
+    "nafn": "Hj\u00e1lmar \u00c1sgeirsson",
+    "braut": "Flugvirkjan\u00e1m"
+  }, {
+    "kt": "2103151236",
+    "nafn": "Emma Birgitta \u00d3lafsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "2607702071",
+    "nafn": "Sylvia Dagbj\u00f6rt \u00d3lafsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "2009926375",
+    "nafn": "Aron Leo Einarsson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut"
+  }, {
+    "kt": "1601024988",
+    "nafn": "Ragnhildur \u00c1skelsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "1106113784",
+    "nafn": "J\u00f3nas J\u00f3n Gunnarsson",
+    "braut": "Rafvirkjun"
+  }, {
+    "kt": "2307085736",
+    "nafn": "Gylfi Hilmar Sigur\u00f0sson",
+    "braut": "M\u00fari\u00f0n"
+  }, {
+    "kt": "0804501580",
+    "nafn": "Adam The\u00f3d\u00f3rsson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi"
+  }, {
+    "kt": "3002927606",
+    "nafn": "Logi Ormsson",
+    "braut": "\u00c1hafnarsamstarf MCC"
+  }, {
+    "kt": "2512659754",
+    "nafn": "R\u00f3bert J\u00f6kull \u00c1skelsson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "2211644980",
+    "nafn": "Hj\u00f6rtur Bjarnason",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m"
+  }, {
+    "kt": "0502133250",
+    "nafn": "Silvia Sigmarsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir"
+  }, {
+    "kt": "1207388878",
+    "nafn": "Ingvar Magn\u00fas Fri\u00f0riksson",
+    "braut": "H\u00e1rsnyrtideild"
+  }, {
+    "kt": "0803145731",
+    "nafn": "Adam Karl Birgisson",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1606258572",
+    "nafn": "\u00d3laf\u00eda Sigmarsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans"
+  }, {
+    "kt": "1608016886",
+    "nafn": "Ragnhei\u00f0ur J\u00f6kulsd\u00f3ttir",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut"
+  }, {
+    "kt": "1607588234",
+    "nafn": "Freyr Einarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na"
+  }, {
+    "kt": "1301431084",
+    "nafn": "L\u00edsa \u00d3lafsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "2507713709",
+    "nafn": "T\u00f3mas Gu\u00f0j\u00f3nsson",
+    "braut": "T\u00f6lvubraut"
+  }, {
+    "kt": "2707869847",
+    "nafn": "Gylfi Hj\u00f6rtur T\u00f3masson",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "1705029037",
+    "nafn": "\u00d3\u00f0inn Fri\u00f0riksson",
+    "braut": "Blindflugs\u00e1ritun"
+  }, {
+    "kt": "1109845127",
+    "nafn": "Bjarni Birgisson",
+    "braut": "Lj\u00f3smyndun"
+  }, {
+    "kt": "1305756660",
+    "nafn": "Hj\u00f6rd\u00eds M\u00e1sd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn"
+  }, {
+    "kt": "0509172446",
+    "nafn": "Hilmar Fannar Birgisson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i"
+  }, {
+    "kt": "2510882868",
+    "nafn": "T\u00f3mas M\u00e1r Gu\u00f0mundsson",
+    "braut": "T\u00e6kniteiknun"
+  }, {
+    "kt": "0510218599",
+    "nafn": "Hekla R\u00edkhar\u00f0sd\u00f3ttir",
+    "braut": "Einkaflugmannsn\u00e1m"
+  }, {
+    "kt": "0406171836",
+    "nafn": "Matth\u00edas Hilmar J\u00f3nasson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir"
+  }, {
+    "kt": "0612776518",
+    "nafn": "Dagbj\u00f6rt G\u00edslad\u00f3ttir",
+    "braut": "Fatai\u00f0n"
+  }, {
+    "kt": "1104257152",
+    "nafn": "A\u00f0alhei\u00f0ur Emma Fri\u00f0riksd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut"
+  }, {
+    "kt": "1612577246",
+    "nafn": "J\u00f3n Sigur\u00f0sson",
+    "braut": "Rennism\u00ed\u00f0abraut"
+  }, {
+    "kt": "2811678933",
+    "nafn": "T\u00f3mas Sigur\u00f0sson",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans"
+  }, {
+    "kt": "2203162435",
+    "nafn": "Hekla Sigmarsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir"
+  }, {
+    "kt": "1102847180",
+    "nafn": "R\u00f3bert Agnarsson",
+    "braut": "Lj\u00f3smyndun"
+  }]
+}

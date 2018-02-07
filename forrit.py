@@ -33,8 +33,8 @@ def error500(error):
            '''
 
 
-
-run(host="0.0.0.0", port=os.environ.get('PORT'))
+run()
+#run(host="0.0.0.0", port=os.environ.get('PORT'))
 
 
 
