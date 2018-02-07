@@ -1,62 +1,64 @@
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
-
 
 @font-face {
   font-family: OpenSans-Regular;
   src: url('../fonts/OpenSans/OpenSans-Regular.ttf');
 }
 
-
-
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
+
 * {
-	margin: 0px;
-	padding: 0px;
-	box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
 body, html {
-	height: 100%;
-	font-family: sans-serif;
+  height: 100%;
+  font-family: sans-serif;
 }
 
 /* ------------------------------------ */
+
 a {
-	margin: 0px;
-	transition: all 0.4s;
-	-webkit-transition: all 0.4s;
+  margin: 0px;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
 }
 
 a:focus {
-	outline: none !important;
+  outline: none !important;
 }
 
 a:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 /* ------------------------------------ */
-h1,h2,h3,h4,h5,h6 {margin: 0px;}
 
-p {margin: 0px;}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+}
 
 ul, li {
-	margin: 0px;
-	list-style-type: none;
+  margin: 0px;
+  list-style-type: none;
 }
 
-
 /* ------------------------------------ */
+
 input {
   display: block;
-	outline: none;
-	border: none !important;
+  outline: none;
+  border: none !important;
 }
 
 textarea {
@@ -69,30 +71,23 @@ textarea:focus, input:focus {
 }
 
 /* ------------------------------------ */
+
 button {
-	outline: none !important;
-	border: none;
-	background: transparent;
+  outline: none !important;
+  border: none;
+  background: transparent;
 }
 
 button:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 iframe {
-	border: none !important;
+  border: none !important;
 }
-
-
-
 
 /*//////////////////////////////////////////////////////////////////
 [ Utiliti ]*/
-
-
-
-
-
 
 /*//////////////////////////////////////////////////////////////////
 [ Table ]*/
@@ -110,7 +105,6 @@ iframe {
   background: -o-linear-gradient(45deg, #4158d0, #c850c0);
   background: -moz-linear-gradient(45deg, #4158d0, #c850c0);
   background: linear-gradient(45deg, #4158d0, #c850c0);
-
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -136,37 +130,50 @@ table {
   margin: 0 auto;
   position: relative;
 }
+
 table * {
   position: relative;
 }
+
 table td, table th {
   padding-left: 8px;
 }
+
 table thead tr {
   height: 60px;
   background: #36304a;
 }
-table tbody tr {
+
+table tfoot tr td {
+  text-align: center !important;
+  padding-top: 14px;
+}
+
+table tbody tr, table tfoot tr {
   height: 50px;
 }
-table tbody tr:last-child {
+
+table tbody tr:last-child, table tfoot tr:last-child {
   border: 0;
 }
+
 table td, table th {
   text-align: left;
 }
+
 table td.l, table th.l {
   text-align: right;
 }
+
 table td.c, table th.c {
   text-align: center;
 }
+
 table td.r, table th.r {
   text-align: center;
 }
 
-
-.table100-head th{
+.table100-head th {
   font-family: OpenSans-Regular;
   font-size: 18px;
   color: #fff;
@@ -174,11 +181,11 @@ table td.r, table th.r {
   font-weight: unset;
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(even), tfoot tr:nth-child(even) {
   background-color: #f5f5f5;
 }
 
-tbody tr {
+tbody tr, tfoot tr {
   font-family: OpenSans-Regular;
   font-size: 15px;
   color: #808080;
@@ -186,7 +193,7 @@ tbody tr {
   font-weight: unset;
 }
 
-tbody tr:hover {
+tbody tr:hover, tfoot tr:hover {
   color: #555555;
   background-color: #f5f5f5;
   cursor: pointer;
@@ -221,12 +228,11 @@ tbody tr:hover {
   padding-right: 62px;
 }
 
-
 @media screen and (max-width: 992px) {
   table {
     display: block;
   }
-  table > *, table tr, table td, table th {
+  table>*, table tr, table td, table th {
     display: block;
   }
   table thead {
@@ -263,22 +269,12 @@ tbody tr:hover {
   table tbody tr td:nth-child(3):before {
     content: "Braut";
   }
-
-  .column4,
-  .column5,
-  .column6 {
+  .column4, .column5, .column6 {
     text-align: left;
   }
-
-  .column4,
-  .column5,
-  .column6,
-  .column1,
-  .column2,
-  .column3 {
+  .column4, .column5, .column6, .column1, .column2, .column3 {
     width: 100%;
   }
-
   tbody tr {
     font-size: 14px;
   }

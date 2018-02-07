@@ -27,11 +27,12 @@
                 <td>{{nemandi['nafn']}}</td>
                 <td>{{nemandi['braut']}}</td>
               </tr>
-              <tr>
-                <td><a href="/">Til baka</a> </td>
-                <td colspan="2"></td>
-              </tr>
             </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="3"><a href="/">Til baka</a></td>
+              </tr>
+            </tfoot>
           </table>
         </div>
       </div>

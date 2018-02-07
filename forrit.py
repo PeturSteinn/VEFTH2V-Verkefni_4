@@ -32,8 +32,8 @@ def error500(error):
            <h3><a href="/">Á heimasíðu</a></h3>
            '''
 
-
-run(host="0.0.0.0", port=os.environ.get('PORT'))
+run()
+#run(host="0.0.0.0", port=os.environ.get('PORT'))
 
 
 
